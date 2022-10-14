@@ -13,4 +13,14 @@
 12,create a button for google sign in method with a click handler.
 13,Inside the event handler, call signInWithPopup with auth, provider
 14, after signInWithPopup, then result, error
+--------------------------------------------
+Display data
+-----------------------
+
+------------------------------
+Add a new sign in method
+----------------------------
+1, enable the sign in method
+2, create github, twitter, fb, etc. app create
+3, get client ID and secret id
 */
